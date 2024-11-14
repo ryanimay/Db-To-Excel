@@ -1,6 +1,6 @@
 ## Convert table to excel
-### MSSQL表匯出Excel  
-因應工作需求寫的工具  
+就MSSQL表匯出Excel  
+工作需求寫的工具  
 要把資料庫表匯出excel  
 直接對應欄位和值  
 輸出值有把Big5的UnitCode統一轉utf-8  
